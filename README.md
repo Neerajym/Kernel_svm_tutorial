@@ -17,3 +17,4 @@ This repository contains my machine learning tutorial assignment on Support Vect
 This tutorial explains how different SVM kernels affect classification performance and decision boundaries, using the Seeds dataset as the main experiment and a synthetic moons dataset as a teaching example.
 
 ## Author
+Neeraj Yelahanka Mallikarjuna
